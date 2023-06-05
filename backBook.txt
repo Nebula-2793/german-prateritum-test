@@ -1,0 +1,399 @@
+abbiegen
+ist abgebogen
+bog ab
+
+abschlieSSen
+hat abgeschlossen
+schloss ab
+
+anbieten
+hat angeboten
+bot an
+
+anfangen
+hat angefangen
+fing an
+
+anrufen
+hat angerufen
+rief an
+
+anziehen
+hat angezogen
+zog an
+
+aufstehen
+ist aufgestanden
+stand auf
+
+aufwachsen
+ist aufgewachsen
+wuchs auf
+
+aussehen
+hat ausgesehen
+sah aus
+
+backen
+hat gebacken
+backte
+
+beginnen
+hat begonnen
+begann
+
+behalten
+hat behalten
+behielt
+
+bekommen
+hat bekommen
+bekam
+
+beraten
+hat beraten
+beriet
+
+bestehen
+hat bestanden
+bestand
+
+beweisen
+hat bewiesen
+bewies
+
+bieten
+hat geboten
+bot
+
+bitten
+hat gebeten
+bat
+
+bleiben
+ist geblieben
+blieb
+
+braten
+hat gebraten
+briet
+
+bringen
+hat gebracht
+brachte
+
+denken
+hat gedacht
+dachte
+
+du.rfen
+hat gedurft
+durfte
+
+einladen
+hat eingeladen
+lud ein
+
+erfahren
+hat erfahren
+erfuhr
+
+essen
+hat gegessen
+aSS
+
+fahren
+ist gefahren
+fuhr
+
+fern sehen
+hat ferngesehen
+sah fern
+
+finden
+hat gefunden
+fand
+
+fliegen
+ist geflogen
+flog
+
+fressen
+hat gefressen
+fraSS
+
+geben
+hat gegeben
+gab
+
+gefallen
+hat gefallen
+gefiel
+
+gehen
+ist gegangen
+ging
+
+gelten
+hat gegolten
+galt
+
+genieSSen
+hat genossen
+genoss
+
+gewinnen
+hat gewonnen
+gewann
+
+haben
+hat gehabt
+hatte
+
+ha.ngen (dativ)
+hat gehangen
+hing
+
+heiSSen
+hat geheiSSen
+hieSS
+
+helfen
+hat geholfen
+half
+
+herunterladen
+hat heruntergeladen
+lud herunter
+
+kennen
+hat gekannt
+kannte
+
+kommen
+ist gekommen
+kam
+
+ko.nnen
+hat gekannt
+konnte
+
+laufen
+ist gelaufen
+lief
+
+leihen
+hat geliehen
+lieh
+
+lesen
+hat gelesen
+las
+
+liegen
+hat gelegen
+lag
+
+mo.gen
+hat gemocht
+mochte
+
+mu.ssen
+hat gemusst
+musste
+
+nehmen
+hat genommen
+nahm
+
+nennen
+hat genannt
+nannte
+
+raten
+hat geraten
+riet
+
+reiben
+hat gerieben
+rieb
+
+reiten
+ist geritten
+ritt
+
+rufen
+hat gerufen
+rief
+
+scheinen
+hat geschienen
+schien
+
+schieSSen
+hat geschossen
+schoss
+
+schlafen
+hat geschlafen
+schlief
+
+schneiden
+hat geschnitten
+schnitt
+
+schreiben
+hat geschrieben
+schrieb
+
+schwimmen
+ist geschwommen
+schwamm
+
+sehen
+hat gesehen
+sah
+
+sein
+ist gewesen
+war
+
+singen
+hat gesungen
+sang
+
+sitzen
+hat gesessen
+saSS
+
+sollen
+hat gesollt
+sollte
+
+spinnen
+hat gesponnen
+spann
+
+sprechen
+hat gesprochen
+sprach
+
+springen
+ist gesprungen
+sprang
+
+stattfinden
+hat stattgefunden
+fand statt
+
+stehen
+ist gestanden
+stand
+
+stehlen
+hat gestohlen
+stahl
+
+steigen
+ist gestiegen
+stieg
+
+sterben
+ist gestorben
+starb
+
+streiten
+hat gestritten
+stritt
+
+teilnehmen
+hat teilgenommen
+nahm teil
+
+tragen
+hat getragen
+trug
+
+treffen
+hat getroffen
+traf
+
+trinken
+hat getrunken
+trank
+
+tun
+hat getan
+tat
+
+u.bertreiben
+hat u.bertrieben
+u.bertrieb
+
+umfallen
+ist umgefallen
+fiel um
+
+umziehen
+ist umgezogen
+zog um
+
+unterhalten
+hat unterhalten
+unterhielt
+
+verbringen
+hat verbracht
+verbrachte
+
+vergessen
+hat vergessen
+vergaSS
+
+verlassen
+hat verlassen
+verlieSS
+
+verlieren
+hat verloren
+verlor
+
+verstehen
+hat verstanden
+verstand
+
+vorhaben
+hat vorgehabt
+hatte vor
+
+vorschlagen
+hat vorgeschlagen
+schlug vor
+
+weh tun
+hat wehgetan
+tat weh
+
+werden
+ist geworden
+wurde
+
+werfen
+hat geworfen
+warf
+
+wiegen
+hat gewogen
+wog
+
+wissen
+hat gewusst
+wusste
+
+wollen
+hat gewollt
+wollte
+
+mo.chten
+hat gewollt
+wollte
