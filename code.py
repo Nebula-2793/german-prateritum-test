@@ -12,7 +12,7 @@ yel = Fore.YELLOW
 wrong = []
 
 def data():
-    file = open(r"C:\Users\Amey\Desktop\coding\python\Prateritum\backBook.txt", mode='r')
+    file = open(r"backBook.txt", mode='r')
     lines = file.read().splitlines()
     file.close()
 
